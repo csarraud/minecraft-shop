@@ -1,0 +1,39 @@
+name: Shop
+version: 1.3
+author: Sonkuun
+main: fr.sonkuun.shop.plugin.ShopPlugin
+api-version: 1.16
+
+commands:
+   shop:
+      description: Open an inventory to buy and sell different items
+      permission: shop.shop
+   coins:
+      description: Send to the player a message with his coins value
+      permission: shop.coins
+   givecoins:
+      description: Give coins to the player
+      permission: shop.givecoins
+   removecoins:
+      description: Remove coins from the player
+      permission: shop.removecoins
+   setcoins:
+      description: Set player's coins
+      permission: shop.setcoins
+      
+permissions:
+   shop.shop:
+      description: Give access to the shop UI
+      default: true
+   shop.coins:
+      description: Give access to his coins value
+      default: true
+   shop.givecoins:
+      description: Give access to the giving coins command
+      default: op
+   shop.removecoins:
+      description: Give access to the removing coins command
+      default: op
+   shop.setcoins:
+      description: Give access to the setting coins command
+      default: op
