@@ -155,7 +155,6 @@ public class Shop {
 			inventory.setItem(i, glass);
 		}
 		
-		// TODO
 		if(page == 1) {
 			
 			inventory.setItem(10, createShopItem(Material.GRASS_BLOCK, 64));
@@ -164,6 +163,21 @@ public class Shop {
 			inventory.setItem(13, createShopItem(Material.GRANITE, 64));
 			inventory.setItem(14, createShopItem(Material.DIORITE, 64));
 			inventory.setItem(15, createShopItem(Material.ANDESITE, 64));
+			inventory.setItem(16, createShopItem(Material.GRAVEL, 8));
+			inventory.setItem(19, createShopItem(Material.BLACKSTONE, 64));
+			inventory.setItem(20, createShopItem(Material.NETHERRACK, 64));
+			inventory.setItem(21, createShopItem(Material.NETHER_BRICKS, 64));
+			inventory.setItem(22, createShopItem(Material.OAK_LOG, 8));
+			inventory.setItem(23, createShopItem(Material.SPRUCE_LOG, 8));
+			inventory.setItem(24, createShopItem(Material.BIRCH_LOG, 8));
+			inventory.setItem(25, createShopItem(Material.JUNGLE_LOG, 8));
+			inventory.setItem(28, createShopItem(Material.ACACIA_LOG, 8));
+			inventory.setItem(29, createShopItem(Material.DARK_OAK_LOG, 8));
+			inventory.setItem(30, createShopItem(Material.SNOW_BLOCK, 8));
+			inventory.setItem(31, createShopItem(Material.PACKED_ICE, 8));
+			inventory.setItem(32, createShopItem(Material.BLUE_ICE, 8));
+			inventory.setItem(33, createShopItem(Material.SPONGE, 1));
+			inventory.setItem(34, createShopItem(Material.OBSIDIAN, 1));
 			
 			ItemStack nextPage = new ItemStack(Material.PAPER);
 			ItemMeta meta = nextPage.getItemMeta();
@@ -173,6 +187,16 @@ public class Shop {
 		}
 		else if(page == 2) {
 			
+			inventory.setItem(10, createShopItem(Material.GLOWSTONE, 64));
+			inventory.setItem(11, createShopItem(Material.END_STONE, 64));
+			inventory.setItem(12, createShopItem(Material.PRISMARINE, 8));
+			inventory.setItem(13, createShopItem(Material.DARK_PRISMARINE, 8));
+			inventory.setItem(14, createShopItem(Material.OAK_LEAVES, 16));
+			inventory.setItem(15, createShopItem(Material.SPRUCE_LEAVES, 16));
+			inventory.setItem(16, createShopItem(Material.BIRCH_LEAVES, 16));
+			inventory.setItem(19, createShopItem(Material.JUNGLE_LEAVES, 16));
+			inventory.setItem(20, createShopItem(Material.ACACIA_LEAVES, 16));
+			inventory.setItem(21, createShopItem(Material.QUARTZ_BLOCK, 8));
 			
 			ItemStack previousPage = new ItemStack(Material.PAPER);
 			ItemMeta meta = previousPage.getItemMeta();
