@@ -40,7 +40,7 @@ public class CustomCommandExecutor implements CommandExecutor {
 				if(args.length == 1) {
 					try {
 						coins = Double.parseDouble(args[0]);
-						plugin.addCoins(player, coins);
+						ShopPlugin.addCoins(player, coins);
 					}
 					catch (NumberFormatException e) {
 						return false;
@@ -54,7 +54,7 @@ public class CustomCommandExecutor implements CommandExecutor {
 				if(args.length == 1) {
 					try {
 						coins = Double.parseDouble(args[0]);
-						plugin.removeCoins(player, coins);
+						ShopPlugin.removeCoins(player, coins);
 					}
 					catch (NumberFormatException e) {
 						return false;
@@ -68,7 +68,7 @@ public class CustomCommandExecutor implements CommandExecutor {
 				if(args.length == 1) {
 					try {
 						coins = Double.parseDouble(args[0]);
-						plugin.setCoins(player, coins);
+						ShopPlugin.setCoins(player, coins);
 					}
 					catch (NumberFormatException e) {
 						return false;
