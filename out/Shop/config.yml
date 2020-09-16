@@ -1,0 +1,3284 @@
+# Config the coins name
+Coins:
+  Name:Coins
+  
+Users:
+  2f9c5cc3-2a09-4f70-b58e-99db3d75317a:
+    Shop:
+      Coins: 0.0
+
+Price:
+  ACACIA_BOAT:
+    Buy: 0
+    Sell: 0
+  ACACIA_BUTTON:
+    Buy: 0
+    Sell: 0
+  ACACIA_DOOR:
+    Buy: 0
+    Sell: 0
+  ACACIA_FENCE:
+    Buy: 0
+    Sell: 0
+  ACACIA_FENCE_GATE:
+    Buy: 0
+    Sell: 0
+  ACACIA_LEAVES:
+    Buy: 0
+    Sell: 0
+  ACACIA_LOG:
+    Buy: 0
+    Sell: 0
+  ACACIA_PLANKS:
+    Buy: 0
+    Sell: 0
+  ACACIA_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  ACACIA_SAPLING:
+    Buy: 250
+    Sell: 15
+  ACACIA_SIGN:
+    Buy: 0
+    Sell: 0
+  ACACIA_SLAB:
+    Buy: 0
+    Sell: 0
+  ACACIA_STAIRS:
+    Buy: 0
+    Sell: 0
+  ACACIA_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  ACACIA_WALL_SIGN:
+    Buy: 0
+    Sell: 0
+  ACACIA_WOOD:
+    Buy: 0
+    Sell: 0
+  ACTIVATOR_RAIL:
+    Buy: 0
+    Sell: 0
+  AIR:
+    Buy: 0
+    Sell: 0
+  ALLIUM:
+    Buy: 250
+    Sell: 2
+  ANDESITE:
+    Buy: 0
+    Sell: 0
+  ANDESITE_SLAB:
+    Buy: 0
+    Sell: 0
+  ANDESITE_STAIRS:
+    Buy: 0
+    Sell: 0
+  ANDESITE_WALL:
+    Buy: 0
+    Sell: 0
+  ANVIL:
+    Buy: 0
+    Sell: 0
+  APPLE:
+    Buy: 1000
+    Sell: 32
+  ARMOR_STAND:
+    Buy: 0
+    Sell: 0
+  ARROW:
+    Buy: 200
+    Sell: 64
+  ATTACHED_MELON_STEM:
+    Buy: 0
+    Sell: 0
+  ATTACHED_PUMPKIN_STEM:
+    Buy: 0
+    Sell: 0
+  AZURE_BLUET:
+    Buy: 250
+    Sell: 2
+  BAKED_POTATO:
+    Buy: 250
+    Sell: 48
+  BAMBOO:
+    Buy: 0
+    Sell: 0
+  BAMBOO_SAPLING:
+    Buy: 0
+    Sell: 0
+  BARREL:
+    Buy: 0
+    Sell: 0
+  BARRIER:
+    Buy: 0
+    Sell: 0
+  BAT_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  BEACON:
+    Buy: 0
+    Sell: 0
+  BEDROCK:
+    Buy: 0
+    Sell: 0
+  BEEF:
+    Buy: 0
+    Sell: 0
+  BEETROOT:
+    Buy: 0
+    Sell: 0
+  BEETROOTS:
+    Buy: 0
+    Sell: 0
+  BEETROOT_SEEDS:
+    Buy: 0
+    Sell: 0
+  BEETROOT_SOUP:
+    Buy: 0
+    Sell: 0
+  BELL:
+    Buy: 0
+    Sell: 0
+  BIRCH_BOAT:
+    Buy: 0
+    Sell: 0
+  BIRCH_BUTTON:
+    Buy: 0
+    Sell: 0
+  BIRCH_DOOR:
+    Buy: 0
+    Sell: 0
+  BIRCH_FENCE:
+    Buy: 0
+    Sell: 0
+  BIRCH_FENCE_GATE:
+    Buy: 0
+    Sell: 0
+  BIRCH_LEAVES:
+    Buy: 0
+    Sell: 0
+  BIRCH_LOG:
+    Buy: 0
+    Sell: 0
+  BIRCH_PLANKS:
+    Buy: 0
+    Sell: 0
+  BIRCH_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  BIRCH_SAPLING:
+    Buy: 250
+    Sell: 15
+  BIRCH_SIGN:
+    Buy: 0
+    Sell: 0
+  BIRCH_SLAB:
+    Buy: 0
+    Sell: 0
+  BIRCH_STAIRS:
+    Buy: 0
+    Sell: 0
+  BIRCH_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  BIRCH_WALL_SIGN:
+    Buy: 0
+    Sell: 0
+  BIRCH_WOOD:
+    Buy: 0
+    Sell: 0
+  BLACK_BANNER:
+    Buy: 0
+    Sell: 0
+  BLACK_BED:
+    Buy: 0
+    Sell: 0
+  BLACK_CARPET:
+    Buy: 0
+    Sell: 0
+  BLACK_CONCRETE:
+    Buy: 0
+    Sell: 0
+  BLACK_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  BLACK_DYE:
+    Buy: 0
+    Sell: 0
+  BLACK_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  BLACK_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  BLACK_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  BLACK_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  BLACK_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  BLACK_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  BLACK_WOOL:
+    Buy: 0
+    Sell: 0
+  BLAST_FURNACE:
+    Buy: 0
+    Sell: 0
+  BLAZE_POWDER:
+    Buy: 0
+    Sell: 0
+  BLAZE_ROD:
+    Buy: 800
+    Sell: 450
+  BLAZE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  BLUE_BANNER:
+    Buy: 0
+    Sell: 0
+  BLUE_BED:
+    Buy: 0
+    Sell: 0
+  BLUE_CARPET:
+    Buy: 0
+    Sell: 0
+  BLUE_CONCRETE:
+    Buy: 0
+    Sell: 0
+  BLUE_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  BLUE_DYE:
+    Buy: 0
+    Sell: 0
+  BLUE_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  BLUE_ICE:
+    Buy: 0
+    Sell: 0
+  BLUE_ORCHID:
+    Buy: 250
+    Sell: 2
+  BLUE_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  BLUE_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  BLUE_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  BLUE_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  BLUE_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  BLUE_WOOL:
+    Buy: 0
+    Sell: 0
+  BONE:
+    Buy: 500
+    Sell: 300
+  BONE_BLOCK:
+    Buy: 0
+    Sell: 0
+  BONE_MEAL:
+    Buy: 0
+    Sell: 0
+  BOOK:
+    Buy: 0
+    Sell: 0
+  BOOKSHELF:
+    Buy: 0
+    Sell: 0
+  BOW:
+    Buy: 0
+    Sell: 0
+  BOWL:
+    Buy: 0
+    Sell: 0
+  BRAIN_CORAL:
+    Buy: 0
+    Sell: 0
+  BRAIN_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  BRAIN_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  BRAIN_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  BREAD:
+    Buy: 300
+    Sell: 32
+  BREWING_STAND:
+    Buy: 5500
+    Sell: 0
+  BRICK:
+    Buy: 0
+    Sell: 0
+  BRICKS:
+    Buy: 0
+    Sell: 0
+  BRICK_SLAB:
+    Buy: 0
+    Sell: 0
+  BRICK_STAIRS:
+    Buy: 0
+    Sell: 0
+  BRICK_WALL:
+    Buy: 0
+    Sell: 0
+  BROWN_BANNER:
+    Buy: 0
+    Sell: 0
+  BROWN_BED:
+    Buy: 0
+    Sell: 0
+  BROWN_CARPET:
+    Buy: 0
+    Sell: 0
+  BROWN_CONCRETE:
+    Buy: 0
+    Sell: 0
+  BROWN_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  BROWN_DYE:
+    Buy: 0
+    Sell: 0
+  BROWN_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  BROWN_MUSHROOM:
+    Buy: 640
+    Sell: 7
+  BROWN_MUSHROOM_BLOCK:
+    Buy: 0
+    Sell: 0
+  BROWN_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  BROWN_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  BROWN_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  BROWN_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  BROWN_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  BROWN_WOOL:
+    Buy: 0
+    Sell: 0
+  BUBBLE_COLUMN:
+    Buy: 0
+    Sell: 0
+  BUBBLE_CORAL:
+    Buy: 0
+    Sell: 0
+  BUBBLE_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  BUBBLE_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  BUBBLE_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  BUCKET:
+    Buy: 100
+    Sell: 0
+  CACTUS:
+    Buy: 6400
+    Sell: 32
+  CAKE:
+    Buy: 700
+    Sell: 100
+  CAMPFIRE:
+    Buy: 0
+    Sell: 0
+  CARROT:
+    Buy: 3500
+    Sell: 64
+  CARROTS:
+    Buy: 0
+    Sell: 0
+  CARROT_ON_A_STICK:
+    Buy: 0
+    Sell: 0
+  CARTOGRAPHY_TABLE:
+    Buy: 0
+    Sell: 0
+  CARVED_PUMPKIN:
+    Buy: 10000
+    Sell: 48
+  CAT_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  CAULDRON:
+    Buy: 500
+    Sell: 0
+  CAVE_AIR:
+    Buy: 0
+    Sell: 0
+  CAVE_SPIDER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  CHAINMAIL_BOOTS:
+    Buy: 0
+    Sell: 0
+  CHAINMAIL_CHESTPLATE:
+    Buy: 0
+    Sell: 0
+  CHAINMAIL_HELMET:
+    Buy: 0
+    Sell: 0
+  CHAINMAIL_LEGGINGS:
+    Buy: 0
+    Sell: 0
+  CHAIN_COMMAND_BLOCK:
+    Buy: 0
+    Sell: 0
+  CHARCOAL:
+    Buy: 0
+    Sell: 0
+  CHEST:
+    Buy: 0
+    Sell: 0
+  CHEST_MINECART:
+    Buy: 0
+    Sell: 0
+  CHICKEN:
+    Buy: 0
+    Sell: 0
+  CHICKEN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  CHIPPED_ANVIL:
+    Buy: 0
+    Sell: 0
+  CHISELED_QUARTZ_BLOCK:
+    Buy: 0
+    Sell: 0
+  CHISELED_RED_SANDSTONE:
+    Buy: 0
+    Sell: 0
+  CHISELED_SANDSTONE:
+    Buy: 0
+    Sell: 0
+  CHISELED_STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  CHORUS_FLOWER:
+    Buy: 0
+    Sell: 0
+  CHORUS_FRUIT:
+    Buy: 0
+    Sell: 0
+  CHORUS_PLANT:
+    Buy: 0
+    Sell: 0
+  CLAY:
+    Buy: 0
+    Sell: 0
+  CLAY_BALL:
+    Buy: 0
+    Sell: 0
+  CLOCK:
+    Buy: 0
+    Sell: 0
+  COAL:
+    Buy: 3000
+    Sell: 75
+  COAL_BLOCK:
+    Buy: 14400
+    Sell: 675
+  COAL_ORE:
+    Buy: 0
+    Sell: 0
+  COARSE_DIRT:
+    Buy: 0
+    Sell: 0
+  COBBLESTONE:
+    Buy: 0
+    Sell: 0
+  COBBLESTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  COBBLESTONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  COBBLESTONE_WALL:
+    Buy: 0
+    Sell: 0
+  COBWEB:
+    Buy: 0
+    Sell: 0
+  COCOA:
+    Buy: 0
+    Sell: 0
+  COCOA_BEANS:
+    Buy: 15000
+    Sell: 200
+  COD:
+    Buy: 0
+    Sell: 0
+  COD_BUCKET:
+    Buy: 0
+    Sell: 0
+  COD_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  COMMAND_BLOCK:
+    Buy: 0
+    Sell: 0
+  COMMAND_BLOCK_MINECART:
+    Buy: 0
+    Sell: 0
+  COMPARATOR:
+    Buy: 0
+    Sell: 0
+  COMPASS:
+    Buy: 0
+    Sell: 0
+  COMPOSTER:
+    Buy: 0
+    Sell: 0
+  CONDUIT:
+    Buy: 0
+    Sell: 0
+  COOKED_BEEF:
+    Buy: 400
+    Sell: 16
+  COOKED_CHICKEN:
+    Buy: 200
+    Sell: 16
+  COOKED_COD:
+    Buy: 200
+    Sell: 32
+  COOKED_MUTTON:
+    Buy: 400
+    Sell: 32
+  COOKED_PORKCHOP:
+    Buy: 400
+    Sell: 16
+  COOKED_RABBIT:
+    Buy: 100
+    Sell: 32
+  COOKED_SALMON:
+    Buy: 200
+    Sell: 32
+  COOKIE:
+    Buy: 150
+    Sell: 16
+  CORNFLOWER:
+    Buy: 0
+    Sell: 0
+  COW_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  CRACKED_STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  CRAFTING_TABLE:
+    Buy: 0
+    Sell: 0
+  CREEPER_BANNER_PATTERN:
+    Buy: 0
+    Sell: 0
+  CREEPER_HEAD:
+    Buy: 0
+    Sell: 0
+  CREEPER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  CREEPER_WALL_HEAD:
+    Buy: 0
+    Sell: 0
+  CROSSBOW:
+    Buy: 0
+    Sell: 0
+  CUT_RED_SANDSTONE:
+    Buy: 0
+    Sell: 0
+  CUT_RED_SANDSTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  CUT_SANDSTONE:
+    Buy: 0
+    Sell: 0
+  CUT_SANDSTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  CYAN_BANNER:
+    Buy: 0
+    Sell: 0
+  CYAN_BED:
+    Buy: 0
+    Sell: 0
+  CYAN_CARPET:
+    Buy: 0
+    Sell: 0
+  CYAN_CONCRETE:
+    Buy: 0
+    Sell: 0
+  CYAN_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  CYAN_DYE:
+    Buy: 0
+    Sell: 0
+  CYAN_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  CYAN_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  CYAN_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  CYAN_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  CYAN_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  CYAN_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  CYAN_WOOL:
+    Buy: 0
+    Sell: 0
+  DAMAGED_ANVIL:
+    Buy: 0
+    Sell: 0
+  DANDELION:
+    Buy: 250
+    Sell: 2
+  DARK_OAK_BOAT:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_BUTTON:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_DOOR:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_FENCE:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_FENCE_GATE:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_LEAVES:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_LOG:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_PLANKS:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_SAPLING:
+    Buy: 250
+    Sell: 15
+  DARK_OAK_SIGN:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_SLAB:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_STAIRS:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_WALL_SIGN:
+    Buy: 0
+    Sell: 0
+  DARK_OAK_WOOD:
+    Buy: 0
+    Sell: 0
+  DARK_PRISMARINE:
+    Buy: 0
+    Sell: 0
+  DARK_PRISMARINE_SLAB:
+    Buy: 0
+    Sell: 0
+  DARK_PRISMARINE_STAIRS:
+    Buy: 0
+    Sell: 0
+  DAYLIGHT_DETECTOR:
+    Buy: 0
+    Sell: 0
+  DEAD_BRAIN_CORAL:
+    Buy: 0
+    Sell: 0
+  DEAD_BRAIN_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  DEAD_BRAIN_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_BRAIN_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_BUBBLE_CORAL:
+    Buy: 0
+    Sell: 0
+  DEAD_BUBBLE_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  DEAD_BUBBLE_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_BUBBLE_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_BUSH:
+    Buy: 1200
+    Sell: 0
+  DEAD_FIRE_CORAL:
+    Buy: 0
+    Sell: 0
+  DEAD_FIRE_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  DEAD_FIRE_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_FIRE_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_HORN_CORAL:
+    Buy: 0
+    Sell: 0
+  DEAD_HORN_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  DEAD_HORN_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_HORN_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_TUBE_CORAL:
+    Buy: 0
+    Sell: 0
+  DEAD_TUBE_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  DEAD_TUBE_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  DEAD_TUBE_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  DEBUG_STICK:
+    Buy: 0
+    Sell: 0
+  DETECTOR_RAIL:
+    Buy: 0
+    Sell: 0
+  DIAMOND:
+    Buy: 16000
+    Sell: 570
+  DIAMOND_AXE:
+    Buy: 0
+    Sell: 0
+  DIAMOND_BLOCK:
+    Buy: 144000
+    Sell: 4860
+  DIAMOND_BOOTS:
+    Buy: 0
+    Sell: 0
+  DIAMOND_CHESTPLATE:
+    Buy: 0
+    Sell: 0
+  DIAMOND_HELMET:
+    Buy: 0
+    Sell: 0
+  DIAMOND_HOE:
+    Buy: 0
+    Sell: 0
+  DIAMOND_HORSE_ARMOR:
+    Buy: 0
+    Sell: 0
+  DIAMOND_LEGGINGS:
+    Buy: 0
+    Sell: 0
+  DIAMOND_ORE:
+    Buy: 0
+    Sell: 0
+  DIAMOND_PICKAXE:
+    Buy: 0
+    Sell: 0
+  DIAMOND_SHOVEL:
+    Buy: 0
+    Sell: 0
+  DIAMOND_SWORD:
+    Buy: 0
+    Sell: 0
+  DIORITE:
+    Buy: 0
+    Sell: 0
+  DIORITE_SLAB:
+    Buy: 0
+    Sell: 0
+  DIORITE_STAIRS:
+    Buy: 0
+    Sell: 0
+  DIORITE_WALL:
+    Buy: 0
+    Sell: 0
+  DIRT:
+    Buy: 0
+    Sell: 0
+  DISPENSER:
+    Buy: 0
+    Sell: 0
+  DOLPHIN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  DONKEY_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  DRAGON_BREATH:
+    Buy: 0
+    Sell: 0
+  DRAGON_EGG:
+    Buy: 0
+    Sell: 0
+  DRAGON_HEAD:
+    Buy: 0
+    Sell: 0
+  DRAGON_WALL_HEAD:
+    Buy: 0
+    Sell: 0
+  DRIED_KELP:
+    Buy: 0
+    Sell: 0
+  DRIED_KELP_BLOCK:
+    Buy: 0
+    Sell: 0
+  DROPPER:
+    Buy: 0
+    Sell: 0
+  DROWNED_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  EGG:
+    Buy: 100
+    Sell: 25
+  ELDER_GUARDIAN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ELYTRA:
+    Buy: 0
+    Sell: 0
+  EMERALD:
+    Buy: 16000
+    Sell: 600
+  EMERALD_BLOCK:
+    Buy: 144000
+    Sell: 5400
+  EMERALD_ORE:
+    Buy: 0
+    Sell: 0
+  ENCHANTED_BOOK:
+    Buy: 0
+    Sell: 0
+  ENCHANTED_GOLDEN_APPLE:
+    Buy: 0
+    Sell: 0
+  ENCHANTING_TABLE:
+    Buy: 0
+    Sell: 0
+  ENDERMAN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ENDERMITE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ENDER_CHEST:
+    Buy: 0
+    Sell: 0
+  ENDER_EYE:
+    Buy: 0
+    Sell: 0
+  ENDER_PEARL:
+    Buy: 800
+    Sell: 250
+  END_CRYSTAL:
+    Buy: 0
+    Sell: 0
+  END_GATEWAY:
+    Buy: 0
+    Sell: 0
+  END_PORTAL:
+    Buy: 0
+    Sell: 0
+  END_PORTAL_FRAME:
+    Buy: 0
+    Sell: 0
+  END_ROD:
+    Buy: 0
+    Sell: 0
+  END_STONE:
+    Buy: 0
+    Sell: 0
+  END_STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  END_STONE_BRICK_SLAB:
+    Buy: 0
+    Sell: 0
+  END_STONE_BRICK_STAIRS:
+    Buy: 0
+    Sell: 0
+  END_STONE_BRICK_WALL:
+    Buy: 0
+    Sell: 0
+  EVOKER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  EXPERIENCE_BOTTLE:
+    Buy: 0
+    Sell: 0
+  FARMLAND:
+    Buy: 0
+    Sell: 0
+  FEATHER:
+    Buy: 450
+    Sell: 128
+  FERMENTED_SPIDER_EYE:
+    Buy: 0
+    Sell: 0
+  FERN:
+    Buy: 0
+    Sell: 0
+  FILLED_MAP:
+    Buy: 0
+    Sell: 0
+  FIRE:
+    Buy: 0
+    Sell: 0
+  FIREWORK_ROCKET:
+    Buy: 0
+    Sell: 0
+  FIREWORK_STAR:
+    Buy: 0
+    Sell: 0
+  FIRE_CHARGE:
+    Buy: 0
+    Sell: 0
+  FIRE_CORAL:
+    Buy: 0
+    Sell: 0
+  FIRE_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  FIRE_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  FIRE_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  FISHING_ROD:
+    Buy: 0
+    Sell: 0
+  FLETCHING_TABLE:
+    Buy: 0
+    Sell: 0
+  FLINT:
+    Buy: 0
+    Sell: 0
+  FLINT_AND_STEEL:
+    Buy: 0
+    Sell: 0
+  FLOWER_BANNER_PATTERN:
+    Buy: 0
+    Sell: 0
+  FLOWER_POT:
+    Buy: 0
+    Sell: 0
+  FOX_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  FROSTED_ICE:
+    Buy: 0
+    Sell: 0
+  FURNACE:
+    Buy: 0
+    Sell: 0
+  FURNACE_MINECART:
+    Buy: 0
+    Sell: 0
+  GHAST_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  GHAST_TEAR:
+    Buy: 500
+    Sell: 250
+  GLASS:
+    Buy: 0
+    Sell: 0
+  GLASS_BOTTLE:
+    Buy: 0
+    Sell: 10
+  GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  GLISTERING_MELON_SLICE:
+    Buy: 0
+    Sell: 0
+  GLOBE_BANNER_PATTERN:
+    Buy: 0
+    Sell: 0
+  GLOWSTONE:
+    Buy: 0
+    Sell: 0
+  GLOWSTONE_DUST:
+    Buy: 0
+    Sell: 0
+  GOLDEN_APPLE:
+    Buy: 100000
+    Sell: 0
+  GOLDEN_AXE:
+    Buy: 0
+    Sell: 0
+  GOLDEN_BOOTS:
+    Buy: 0
+    Sell: 0
+  GOLDEN_CARROT:
+    Buy: 4000
+    Sell: 0
+  GOLDEN_CHESTPLATE:
+    Buy: 0
+    Sell: 0
+  GOLDEN_HELMET:
+    Buy: 0
+    Sell: 0
+  GOLDEN_HOE:
+    Buy: 0
+    Sell: 0
+  GOLDEN_HORSE_ARMOR:
+    Buy: 0
+    Sell: 0
+  GOLDEN_LEGGINGS:
+    Buy: 0
+    Sell: 0
+  GOLDEN_PICKAXE:
+    Buy: 0
+    Sell: 0
+  GOLDEN_SHOVEL:
+    Buy: 0
+    Sell: 0
+  GOLDEN_SWORD:
+    Buy: 0
+    Sell: 0
+  GOLD_BLOCK:
+    Buy: 108000
+    Sell: 4230
+  GOLD_INGOT:
+    Buy: 0
+    Sell: 0
+  GOLD_NUGGET:
+    Buy: 0
+    Sell: 0
+  GOLD_ORE:
+    Buy: 24000
+    Sell: 420
+  GRANITE:
+    Buy: 0
+    Sell: 0
+  GRANITE_SLAB:
+    Buy: 0
+    Sell: 0
+  GRANITE_STAIRS:
+    Buy: 0
+    Sell: 0
+  GRANITE_WALL:
+    Buy: 0
+    Sell: 0
+  GRASS:
+    Buy: 0
+    Sell: 0
+  GRASS_BLOCK:
+    Buy: 0
+    Sell: 0
+  GRASS_PATH:
+    Buy: 0
+    Sell: 0
+  GRAVEL:
+    Buy: 0
+    Sell: 0
+  GRAY_BANNER:
+    Buy: 0
+    Sell: 0
+  GRAY_BED:
+    Buy: 0
+    Sell: 0
+  GRAY_CARPET:
+    Buy: 0
+    Sell: 0
+  GRAY_CONCRETE:
+    Buy: 0
+    Sell: 0
+  GRAY_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  GRAY_DYE:
+    Buy: 0
+    Sell: 0
+  GRAY_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  GRAY_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  GRAY_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  GRAY_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  GRAY_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  GRAY_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  GRAY_WOOL:
+    Buy: 0
+    Sell: 0
+  GREEN_BANNER:
+    Buy: 0
+    Sell: 0
+  GREEN_BED:
+    Buy: 0
+    Sell: 0
+  GREEN_CARPET:
+    Buy: 0
+    Sell: 0
+  GREEN_CONCRETE:
+    Buy: 0
+    Sell: 0
+  GREEN_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  GREEN_DYE:
+    Buy: 0
+    Sell: 0
+  GREEN_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  GREEN_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  GREEN_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  GREEN_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  GREEN_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  GREEN_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  GREEN_WOOL:
+    Buy: 0
+    Sell: 0
+  GRINDSTONE:
+    Buy: 0
+    Sell: 0
+  GUARDIAN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  GUNPOWDER:
+    Buy: 550
+    Sell: 280
+  HAY_BLOCK:
+    Buy: 0
+    Sell: 0
+  HEART_OF_THE_SEA:
+    Buy: 0
+    Sell: 0
+  HEAVY_WEIGHTED_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  HOPPER:
+    Buy: 0
+    Sell: 0
+  HOPPER_MINECART:
+    Buy: 0
+    Sell: 0
+  HORN_CORAL:
+    Buy: 0
+    Sell: 0
+  HORN_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  HORN_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  HORN_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  HORSE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  HUSK_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ICE:
+    Buy: 0
+    Sell: 0
+  INFESTED_CHISELED_STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  INFESTED_COBBLESTONE:
+    Buy: 0
+    Sell: 0
+  INFESTED_CRACKED_STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  INFESTED_MOSSY_STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  INFESTED_STONE:
+    Buy: 0
+    Sell: 0
+  INFESTED_STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  INK_SAC:
+    Buy: 250
+    Sell: 100
+  IRON_AXE:
+    Buy: 0
+    Sell: 0
+  IRON_BARS:
+    Buy: 0
+    Sell: 0
+  IRON_BLOCK:
+    Buy: 72000
+    Sell: 1025
+  IRON_BOOTS:
+    Buy: 0
+    Sell: 0
+  IRON_CHESTPLATE:
+    Buy: 0
+    Sell: 0
+  IRON_DOOR:
+    Buy: 0
+    Sell: 0
+  IRON_HELMET:
+    Buy: 0
+    Sell: 0
+  IRON_HOE:
+    Buy: 0
+    Sell: 0
+  IRON_HORSE_ARMOR:
+    Buy: 0
+    Sell: 0
+  IRON_INGOT:
+    Buy: 8000
+    Sell: 100
+  IRON_LEGGINGS:
+    Buy: 0
+    Sell: 0
+  IRON_NUGGET:
+    Buy: 0
+    Sell: 0
+  IRON_ORE:
+    Buy: 7200
+    Sell: 80
+  IRON_PICKAXE:
+    Buy: 0
+    Sell: 0
+  IRON_SHOVEL:
+    Buy: 0
+    Sell: 0
+  IRON_SWORD:
+    Buy: 0
+    Sell: 0
+  IRON_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  ITEM_FRAME:
+    Buy: 0
+    Sell: 0
+  JACK_O_LANTERN:
+    Buy: 0
+    Sell: 0
+  JIGSAW:
+    Buy: 0
+    Sell: 0
+  JUKEBOX:
+    Buy: 0
+    Sell: 0
+  JUNGLE_BOAT:
+    Buy: 0
+    Sell: 0
+  JUNGLE_BUTTON:
+    Buy: 0
+    Sell: 0
+  JUNGLE_DOOR:
+    Buy: 0
+    Sell: 0
+  JUNGLE_FENCE:
+    Buy: 0
+    Sell: 0
+  JUNGLE_FENCE_GATE:
+    Buy: 0
+    Sell: 0
+  JUNGLE_LEAVES:
+    Buy: 0
+    Sell: 0
+  JUNGLE_LOG:
+    Buy: 0
+    Sell: 0
+  JUNGLE_PLANKS:
+    Buy: 0
+    Sell: 0
+  JUNGLE_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  JUNGLE_SAPLING:
+    Buy: 250
+    Sell: 15
+  JUNGLE_SIGN:
+    Buy: 0
+    Sell: 0
+  JUNGLE_SLAB:
+    Buy: 0
+    Sell: 0
+  JUNGLE_STAIRS:
+    Buy: 0
+    Sell: 0
+  JUNGLE_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  JUNGLE_WALL_SIGN:
+    Buy: 0
+    Sell: 0
+  JUNGLE_WOOD:
+    Buy: 0
+    Sell: 0
+  KELP:
+    Buy: 0
+    Sell: 0
+  KELP_PLANT:
+    Buy: 0
+    Sell: 0
+  KNOWLEDGE_BOOK:
+    Buy: 0
+    Sell: 0
+  LADDER:
+    Buy: 0
+    Sell: 0
+  LANTERN:
+    Buy: 0
+    Sell: 0
+  LAPIS_BLOCK:
+    Buy: 67500
+    Sell: 720
+  LAPIS_LAZULI:
+    Buy: 12500
+    Sell: 100
+  LAPIS_ORE:
+    Buy: 0
+    Sell: 0
+  LARGE_FERN:
+    Buy: 500
+    Sell: 4
+  LAVA:
+    Buy: 0
+    Sell: 0
+  LAVA_BUCKET:
+    Buy: 2500
+    Sell: 0
+  LEAD:
+    Buy: 3500
+    Sell: 0
+  LEATHER:
+    Buy: 300
+    Sell: 100
+  LEATHER_BOOTS:
+    Buy: 0
+    Sell: 0
+  LEATHER_CHESTPLATE:
+    Buy: 0
+    Sell: 0
+  LEATHER_HELMET:
+    Buy: 0
+    Sell: 0
+  LEATHER_HORSE_ARMOR:
+    Buy: 0
+    Sell: 0
+  LEATHER_LEGGINGS:
+    Buy: 0
+    Sell: 0
+  LECTERN:
+    Buy: 0
+    Sell: 0
+  LEVER:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_BANNER:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_BED:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_CARPET:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_CONCRETE:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_DYE:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  LIGHT_BLUE_WOOL:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_BANNER:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_BED:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_CARPET:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_CONCRETE:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_DYE:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  LIGHT_GRAY_WOOL:
+    Buy: 0
+    Sell: 0
+  LIGHT_WEIGHTED_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  LILAC:
+    Buy: 500
+    Sell: 4
+  LILY_OF_THE_VALLEY:
+    Buy: 0
+    Sell: 0
+  LILY_PAD:
+    Buy: 22000
+    Sell: 0
+  LIME_BANNER:
+    Buy: 0
+    Sell: 0
+  LIME_BED:
+    Buy: 0
+    Sell: 0
+  LIME_CARPET:
+    Buy: 0
+    Sell: 0
+  LIME_CONCRETE:
+    Buy: 0
+    Sell: 0
+  LIME_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  LIME_DYE:
+    Buy: 0
+    Sell: 0
+  LIME_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  LIME_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  LIME_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  LIME_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  LIME_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  LIME_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  LIME_WOOL:
+    Buy: 0
+    Sell: 0
+  LINGERING_POTION:
+    Buy: 0
+    Sell: 0
+  LLAMA_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  LOOM:
+    Buy: 0
+    Sell: 0
+  MAGENTA_BANNER:
+    Buy: 0
+    Sell: 0
+  MAGENTA_BED:
+    Buy: 0
+    Sell: 0
+  MAGENTA_CARPET:
+    Buy: 0
+    Sell: 0
+  MAGENTA_CONCRETE:
+    Buy: 0
+    Sell: 0
+  MAGENTA_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  MAGENTA_DYE:
+    Buy: 0
+    Sell: 0
+  MAGENTA_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  MAGENTA_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  MAGENTA_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  MAGENTA_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  MAGENTA_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  MAGENTA_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  MAGENTA_WOOL:
+    Buy: 0
+    Sell: 0
+  MAGMA_BLOCK:
+    Buy: 0
+    Sell: 0
+  MAGMA_CREAM:
+    Buy: 850
+    Sell: 500
+  MAGMA_CUBE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  MAP:
+    Buy: 0
+    Sell: 0
+  MELON:
+    Buy: 0
+    Sell: 0
+  MELON_SEEDS:
+    Buy: 4000
+    Sell: 32
+  MELON_SLICE:
+    Buy: 500
+    Sell: 8
+  MELON_STEM:
+    Buy: 0
+    Sell: 0
+  MILK_BUCKET:
+    Buy: 0
+    Sell: 0
+  MINECART:
+    Buy: 0
+    Sell: 0
+  MOJANG_BANNER_PATTERN:
+    Buy: 0
+    Sell: 0
+  MOOSHROOM_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  MOSSY_COBBLESTONE:
+    Buy: 0
+    Sell: 0
+  MOSSY_COBBLESTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  MOSSY_COBBLESTONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  MOSSY_COBBLESTONE_WALL:
+    Buy: 0
+    Sell: 0
+  MOSSY_STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  MOSSY_STONE_BRICK_SLAB:
+    Buy: 0
+    Sell: 0
+  MOSSY_STONE_BRICK_STAIRS:
+    Buy: 0
+    Sell: 0
+  MOSSY_STONE_BRICK_WALL:
+    Buy: 0
+    Sell: 0
+  MOVING_PISTON:
+    Buy: 0
+    Sell: 0
+  MULE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  MUSHROOM_STEM:
+    Buy: 0
+    Sell: 0
+  MUSHROOM_STEW:
+    Buy: 16
+    Sell: 2
+  MUSIC_DISC_11:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_13:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_BLOCKS:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_CAT:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_CHIRP:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_FAR:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_MALL:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_MELLOHI:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_STAL:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_STRAD:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_WAIT:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_WARD:
+    Buy: 0
+    Sell: 0
+  MUTTON:
+    Buy: 0
+    Sell: 0
+  MYCELIUM:
+    Buy: 0
+    Sell: 0
+  NAME_TAG:
+    Buy: 10000
+    Sell: 0
+  NAUTILUS_SHELL:
+    Buy: 0
+    Sell: 0
+  NETHERRACK:
+    Buy: 0
+    Sell: 0
+  NETHER_BRICK:
+    Buy: 0
+    Sell: 0
+  NETHER_BRICKS:
+    Buy: 0
+    Sell: 0
+  NETHER_BRICK_FENCE:
+    Buy: 0
+    Sell: 0
+  NETHER_BRICK_SLAB:
+    Buy: 0
+    Sell: 0
+  NETHER_BRICK_STAIRS:
+    Buy: 0
+    Sell: 0
+  NETHER_BRICK_WALL:
+    Buy: 0
+    Sell: 0
+  NETHER_PORTAL:
+    Buy: 0
+    Sell: 0
+  NETHER_QUARTZ_ORE:
+    Buy: 0
+    Sell: 0
+  NETHER_STAR:
+    Buy: 0
+    Sell: 0
+  NETHER_WART:
+    Buy: 25000
+    Sell: 256
+  NETHER_WART_BLOCK:
+    Buy: 0
+    Sell: 0
+  NOTE_BLOCK:
+    Buy: 0
+    Sell: 0
+  OAK_BOAT:
+    Buy: 0
+    Sell: 0
+  OAK_BUTTON:
+    Buy: 0
+    Sell: 0
+  OAK_DOOR:
+    Buy: 0
+    Sell: 0
+  OAK_FENCE:
+    Buy: 0
+    Sell: 0
+  OAK_FENCE_GATE:
+    Buy: 0
+    Sell: 0
+  OAK_LEAVES:
+    Buy: 0
+    Sell: 0
+  OAK_LOG:
+    Buy: 0
+    Sell: 0
+  OAK_PLANKS:
+    Buy: 0
+    Sell: 0
+  OAK_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  OAK_SAPLING:
+    Buy: 250
+    Sell: 15
+  OAK_SIGN:
+    Buy: 0
+    Sell: 0
+  OAK_SLAB:
+    Buy: 0
+    Sell: 0
+  OAK_STAIRS:
+    Buy: 0
+    Sell: 0
+  OAK_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  OAK_WALL_SIGN:
+    Buy: 0
+    Sell: 0
+  OAK_WOOD:
+    Buy: 0
+    Sell: 0
+  OBSERVER:
+    Buy: 0
+    Sell: 0
+  OBSIDIAN:
+    Buy: 0
+    Sell: 0
+  OCELOT_SPAWN_EGG:
+    Buy: 10000
+    Sell: 0
+  ORANGE_BANNER:
+    Buy: 0
+    Sell: 0
+  ORANGE_BED:
+    Buy: 0
+    Sell: 0
+  ORANGE_CARPET:
+    Buy: 0
+    Sell: 0
+  ORANGE_CONCRETE:
+    Buy: 0
+    Sell: 0
+  ORANGE_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  ORANGE_DYE:
+    Buy: 0
+    Sell: 0
+  ORANGE_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  ORANGE_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  ORANGE_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  ORANGE_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  ORANGE_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  ORANGE_TULIP:
+    Buy: 250
+    Sell: 2
+  ORANGE_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  ORANGE_WOOL:
+    Buy: 0
+    Sell: 0
+  OXEYE_DAISY:
+    Buy: 250
+    Sell: 2
+  PACKED_ICE:
+    Buy: 0
+    Sell: 0
+  PAINTING:
+    Buy: 0
+    Sell: 0
+  PANDA_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  PAPER:
+    Buy: 0
+    Sell: 0
+  PARROT_SPAWN_EGG:
+    Buy: 25000
+    Sell: 0
+  PEONY:
+    Buy: 0
+    Sell: 0
+  PETRIFIED_OAK_SLAB:
+    Buy: 0
+    Sell: 0
+  PHANTOM_MEMBRANE:
+    Buy: 0
+    Sell: 0
+  PHANTOM_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  PIG_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  PILLAGER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  PINK_BANNER:
+    Buy: 0
+    Sell: 0
+  PINK_BED:
+    Buy: 0
+    Sell: 0
+  PINK_CARPET:
+    Buy: 0
+    Sell: 0
+  PINK_CONCRETE:
+    Buy: 0
+    Sell: 0
+  PINK_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  PINK_DYE:
+    Buy: 0
+    Sell: 0
+  PINK_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  PINK_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  PINK_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  PINK_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  PINK_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  PINK_TULIP:
+    Buy: 250
+    Sell: 2
+  PINK_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  PINK_WOOL:
+    Buy: 0
+    Sell: 0
+  PISTON:
+    Buy: 0
+    Sell: 0
+  PISTON_HEAD:
+    Buy: 0
+    Sell: 0
+  PLAYER_HEAD:
+    Buy: 0
+    Sell: 0
+  PLAYER_WALL_HEAD:
+    Buy: 0
+    Sell: 0
+  PODZOL:
+    Buy: 0
+    Sell: 0
+  POISONOUS_POTATO:
+    Buy: 0
+    Sell: 0
+  POLAR_BEAR_SPAWN_EGG:
+    Buy: 40000
+    Sell: 0
+  POLISHED_ANDESITE:
+    Buy: 0
+    Sell: 0
+  POLISHED_ANDESITE_SLAB:
+    Buy: 0
+    Sell: 0
+  POLISHED_ANDESITE_STAIRS:
+    Buy: 0
+    Sell: 0
+  POLISHED_DIORITE:
+    Buy: 0
+    Sell: 0
+  POLISHED_DIORITE_SLAB:
+    Buy: 0
+    Sell: 0
+  POLISHED_DIORITE_STAIRS:
+    Buy: 0
+    Sell: 0
+  POLISHED_GRANITE:
+    Buy: 0
+    Sell: 0
+  POLISHED_GRANITE_SLAB:
+    Buy: 0
+    Sell: 0
+  POLISHED_GRANITE_STAIRS:
+    Buy: 0
+    Sell: 0
+  POPPED_CHORUS_FRUIT:
+    Buy: 0
+    Sell: 0
+  POPPY:
+    Buy: 250
+    Sell: 2
+  PORKCHOP:
+    Buy: 0
+    Sell: 0
+  POTATO:
+    Buy: 2500
+    Sell: 64
+  POTATOES:
+    Buy: 0
+    Sell: 0
+  POTION:
+    Buy: 0
+    Sell: 0
+  POTTED_ACACIA_SAPLING:
+    Buy: 0
+    Sell: 0
+  POTTED_ALLIUM:
+    Buy: 0
+    Sell: 0
+  POTTED_AZURE_BLUET:
+    Buy: 0
+    Sell: 0
+  POTTED_BAMBOO:
+    Buy: 0
+    Sell: 0
+  POTTED_BIRCH_SAPLING:
+    Buy: 0
+    Sell: 0
+  POTTED_BLUE_ORCHID:
+    Buy: 0
+    Sell: 0
+  POTTED_BROWN_MUSHROOM:
+    Buy: 0
+    Sell: 0
+  POTTED_CACTUS:
+    Buy: 0
+    Sell: 0
+  POTTED_CORNFLOWER:
+    Buy: 0
+    Sell: 0
+  POTTED_DANDELION:
+    Buy: 0
+    Sell: 0
+  POTTED_DARK_OAK_SAPLING:
+    Buy: 0
+    Sell: 0
+  POTTED_DEAD_BUSH:
+    Buy: 0
+    Sell: 0
+  POTTED_FERN:
+    Buy: 0
+    Sell: 0
+  POTTED_JUNGLE_SAPLING:
+    Buy: 0
+    Sell: 0
+  POTTED_LILY_OF_THE_VALLEY:
+    Buy: 0
+    Sell: 0
+  POTTED_OAK_SAPLING:
+    Buy: 0
+    Sell: 0
+  POTTED_ORANGE_TULIP:
+    Buy: 0
+    Sell: 0
+  POTTED_OXEYE_DAISY:
+    Buy: 0
+    Sell: 0
+  POTTED_PINK_TULIP:
+    Buy: 0
+    Sell: 0
+  POTTED_POPPY:
+    Buy: 0
+    Sell: 0
+  POTTED_RED_MUSHROOM:
+    Buy: 0
+    Sell: 0
+  POTTED_RED_TULIP:
+    Buy: 0
+    Sell: 0
+  POTTED_SPRUCE_SAPLING:
+    Buy: 0
+    Sell: 0
+  POTTED_WHITE_TULIP:
+    Buy: 0
+    Sell: 0
+  POTTED_WITHER_ROSE:
+    Buy: 0
+    Sell: 0
+  POWERED_RAIL:
+    Buy: 0
+    Sell: 0
+  PRISMARINE:
+    Buy: 0
+    Sell: 0
+  PRISMARINE_BRICKS:
+    Buy: 0
+    Sell: 0
+  PRISMARINE_BRICK_SLAB:
+    Buy: 0
+    Sell: 0
+  PRISMARINE_BRICK_STAIRS:
+    Buy: 0
+    Sell: 0
+  PRISMARINE_CRYSTALS:
+    Buy: 600
+    Sell: 350
+  PRISMARINE_SHARD:
+    Buy: 450
+    Sell: 270
+  PRISMARINE_SLAB:
+    Buy: 0
+    Sell: 0
+  PRISMARINE_STAIRS:
+    Buy: 0
+    Sell: 0
+  PRISMARINE_WALL:
+    Buy: 0
+    Sell: 0
+  PUFFERFISH:
+    Buy: 0
+    Sell: 0
+  PUFFERFISH_BUCKET:
+    Buy: 0
+    Sell: 0
+  PUFFERFISH_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  PUMPKIN:
+    Buy: 0
+    Sell: 0
+  PUMPKIN_PIE:
+    Buy: 450
+    Sell: 64
+  PUMPKIN_SEEDS:
+    Buy: 3500
+    Sell: 32
+  PUMPKIN_STEM:
+    Buy: 0
+    Sell: 0
+  PURPLE_BANNER:
+    Buy: 0
+    Sell: 0
+  PURPLE_BED:
+    Buy: 0
+    Sell: 0
+  PURPLE_CARPET:
+    Buy: 0
+    Sell: 0
+  PURPLE_CONCRETE:
+    Buy: 0
+    Sell: 0
+  PURPLE_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  PURPLE_DYE:
+    Buy: 0
+    Sell: 0
+  PURPLE_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  PURPLE_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  PURPLE_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  PURPLE_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  PURPLE_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  PURPLE_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  PURPLE_WOOL:
+    Buy: 0
+    Sell: 0
+  PURPUR_BLOCK:
+    Buy: 0
+    Sell: 0
+  PURPUR_PILLAR:
+    Buy: 0
+    Sell: 0
+  PURPUR_SLAB:
+    Buy: 0
+    Sell: 0
+  PURPUR_STAIRS:
+    Buy: 0
+    Sell: 0
+  QUARTZ:
+    Buy: 10000
+    Sell: 250
+  QUARTZ_BLOCK:
+    Buy: 0
+    Sell: 0
+  QUARTZ_PILLAR:
+    Buy: 0
+    Sell: 0
+  QUARTZ_SLAB:
+    Buy: 0
+    Sell: 0
+  QUARTZ_STAIRS:
+    Buy: 0
+    Sell: 0
+  RABBIT:
+    Buy: 0
+    Sell: 0
+  RABBIT_FOOT:
+    Buy: 128
+    Sell: 64
+  RABBIT_HIDE:
+    Buy: 256
+    Sell: 128
+  RABBIT_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  RABBIT_STEW:
+    Buy: 48
+    Sell: 6
+  RAIL:
+    Buy: 0
+    Sell: 0
+  RAVAGER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  REDSTONE:
+    Buy: 0
+    Sell: 0
+  REDSTONE_BLOCK:
+    Buy: 0
+    Sell: 0
+  REDSTONE_LAMP:
+    Buy: 0
+    Sell: 0
+  REDSTONE_ORE:
+    Buy: 0
+    Sell: 0
+  REDSTONE_TORCH:
+    Buy: 0
+    Sell: 0
+  REDSTONE_WALL_TORCH:
+    Buy: 0
+    Sell: 0
+  REDSTONE_WIRE:
+    Buy: 0
+    Sell: 0
+  RED_BANNER:
+    Buy: 0
+    Sell: 0
+  RED_BED:
+    Buy: 0
+    Sell: 0
+  RED_CARPET:
+    Buy: 0
+    Sell: 0
+  RED_CONCRETE:
+    Buy: 0
+    Sell: 0
+  RED_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  RED_DYE:
+    Buy: 0
+    Sell: 0
+  RED_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  RED_MUSHROOM:
+    Buy: 640
+    Sell: 7
+  RED_MUSHROOM_BLOCK:
+    Buy: 0
+    Sell: 0
+  RED_NETHER_BRICKS:
+    Buy: 0
+    Sell: 0
+  RED_NETHER_BRICK_SLAB:
+    Buy: 0
+    Sell: 0
+  RED_NETHER_BRICK_STAIRS:
+    Buy: 0
+    Sell: 0
+  RED_NETHER_BRICK_WALL:
+    Buy: 0
+    Sell: 0
+  RED_SAND:
+    Buy: 0
+    Sell: 0
+  RED_SANDSTONE:
+    Buy: 0
+    Sell: 0
+  RED_SANDSTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  RED_SANDSTONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  RED_SANDSTONE_WALL:
+    Buy: 0
+    Sell: 0
+  RED_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  RED_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  RED_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  RED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  RED_TULIP:
+    Buy: 250
+    Sell: 2
+  RED_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  RED_WOOL:
+    Buy: 0
+    Sell: 0
+  REPEATER:
+    Buy: 0
+    Sell: 0
+  REPEATING_COMMAND_BLOCK:
+    Buy: 0
+    Sell: 0
+  ROSE_BUSH:
+    Buy: 500
+    Sell: 4
+  ROTTEN_FLESH:
+    Buy: 450
+    Sell: 250
+  SADDLE:
+    Buy: 3000
+    Sell: 0
+  SALMON:
+    Buy: 0
+    Sell: 0
+  SALMON_BUCKET:
+    Buy: 0
+    Sell: 0
+  SALMON_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  SAND:
+    Buy: 0
+    Sell: 0
+  SANDSTONE:
+    Buy: 0
+    Sell: 0
+  SANDSTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  SANDSTONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  SANDSTONE_WALL:
+    Buy: 0
+    Sell: 0
+  SCAFFOLDING:
+    Buy: 0
+    Sell: 0
+  SCUTE:
+    Buy: 0
+    Sell: 0
+  SEAGRASS:
+    Buy: 0
+    Sell: 0
+  SEA_LANTERN:
+    Buy: 0
+    Sell: 0
+  SEA_PICKLE:
+    Buy: 0
+    Sell: 0
+  SHEARS:
+    Buy: 0
+    Sell: 0
+  SHEEP_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  SHIELD:
+    Buy: 0
+    Sell: 0
+  SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  SHULKER_SHELL:
+    Buy: 0
+    Sell: 0
+  SHULKER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  SILVERFISH_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  SKELETON_HORSE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  SKELETON_SKULL:
+    Buy: 0
+    Sell: 0
+  SKELETON_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  SKELETON_WALL_SKULL:
+    Buy: 0
+    Sell: 0
+  SKULL_BANNER_PATTERN:
+    Buy: 0
+    Sell: 0
+  SLIME_BALL:
+    Buy: 900
+    Sell: 650
+  SLIME_BLOCK:
+    Buy: 0
+    Sell: 0
+  SLIME_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  SMITHING_TABLE:
+    Buy: 0
+    Sell: 0
+  SMOKER:
+    Buy: 0
+    Sell: 0
+  SMOOTH_QUARTZ:
+    Buy: 0
+    Sell: 0
+  SMOOTH_QUARTZ_SLAB:
+    Buy: 0
+    Sell: 0
+  SMOOTH_QUARTZ_STAIRS:
+    Buy: 0
+    Sell: 0
+  SMOOTH_RED_SANDSTONE:
+    Buy: 0
+    Sell: 0
+  SMOOTH_RED_SANDSTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  SMOOTH_RED_SANDSTONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  SMOOTH_SANDSTONE:
+    Buy: 0
+    Sell: 0
+  SMOOTH_SANDSTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  SMOOTH_SANDSTONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  SMOOTH_STONE:
+    Buy: 0
+    Sell: 0
+  SMOOTH_STONE_SLAB:
+    Buy: 0
+    Sell: 0
+  SNOW:
+    Buy: 0
+    Sell: 0
+  SNOWBALL:
+    Buy: 0
+    Sell: 0
+  SNOW_BLOCK:
+    Buy: 0
+    Sell: 0
+  SOUL_SAND:
+    Buy: 0
+    Sell: 0
+  SPAWNER:
+    BLAZE:
+      Buy: 240000
+      Sell: 80000
+    CAVE_SPIDER:
+      Buy: 120000
+      Sell: 40000
+    CHICKEN:
+      Buy: 45000
+      Sell: 15000
+    COW:
+      Buy: 60000
+      Sell: 20000
+    CREEPER:
+      Buy: 130000
+      Sell: 40000
+    MAGMA_CUBE:
+      Buy: 200000
+      Sell: 65000
+    PIG:
+      Buy: 60000
+      Sell: 20000
+    RABBIT:
+      Buy: 90000
+      Sell: 30000
+    SHEEP:
+      Buy: 50000
+      Sell: 17500
+    SKELETON:
+      Buy: 150000
+      Sell: 50000
+    SLIME:
+      Buy: 200000
+      Sell: 65000
+    SPIDER:
+      Buy: 120000
+      Sell: 40000
+    WITCH:
+      Buy: 180000
+      Sell: 60000
+    ZOMBIE:
+      Buy: 100000
+      Sell: 30000
+    ZOMBIFIED_PIGLIN:
+      Buy: 180000
+      Sell: 60000
+  SPECTRAL_ARROW:
+    Buy: 0
+    Sell: 0
+  SPIDER_EYE:
+    Buy: 600
+    Sell: 400
+  SPIDER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  SPLASH_POTION:
+    Buy: 0
+    Sell: 0
+  SPONGE:
+    Buy: 0
+    Sell: 0
+  SPRUCE_BOAT:
+    Buy: 0
+    Sell: 0
+  SPRUCE_BUTTON:
+    Buy: 0
+    Sell: 0
+  SPRUCE_DOOR:
+    Buy: 0
+    Sell: 0
+  SPRUCE_FENCE:
+    Buy: 0
+    Sell: 0
+  SPRUCE_FENCE_GATE:
+    Buy: 0
+    Sell: 0
+  SPRUCE_LEAVES:
+    Buy: 0
+    Sell: 0
+  SPRUCE_LOG:
+    Buy: 0
+    Sell: 0
+  SPRUCE_PLANKS:
+    Buy: 0
+    Sell: 0
+  SPRUCE_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  SPRUCE_SAPLING:
+    Buy: 250
+    Sell: 15
+  SPRUCE_SIGN:
+    Buy: 0
+    Sell: 0
+  SPRUCE_SLAB:
+    Buy: 0
+    Sell: 0
+  SPRUCE_STAIRS:
+    Buy: 0
+    Sell: 0
+  SPRUCE_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  SPRUCE_WALL_SIGN:
+    Buy: 0
+    Sell: 0
+  SPRUCE_WOOD:
+    Buy: 0
+    Sell: 0
+  SQUID_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  STICK:
+    Buy: 0
+    Sell: 0
+  STICKY_PISTON:
+    Buy: 0
+    Sell: 0
+  STONE:
+    Buy: 0
+    Sell: 0
+  STONECUTTER:
+    Buy: 0
+    Sell: 0
+  STONE_AXE:
+    Buy: 0
+    Sell: 0
+  STONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  STONE_BRICK_SLAB:
+    Buy: 0
+    Sell: 0
+  STONE_BRICK_STAIRS:
+    Buy: 0
+    Sell: 0
+  STONE_BRICK_WALL:
+    Buy: 0
+    Sell: 0
+  STONE_BUTTON:
+    Buy: 0
+    Sell: 0
+  STONE_HOE:
+    Buy: 0
+    Sell: 0
+  STONE_PICKAXE:
+    Buy: 0
+    Sell: 0
+  STONE_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  STONE_SHOVEL:
+    Buy: 0
+    Sell: 0
+  STONE_SLAB:
+    Buy: 0
+    Sell: 0
+  STONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  STONE_SWORD:
+    Buy: 0
+    Sell: 0
+  STRAY_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  STRING:
+    Buy: 450
+    Sell: 300
+  STRIPPED_ACACIA_LOG:
+    Buy: 0
+    Sell: 0
+  STRIPPED_ACACIA_WOOD:
+    Buy: 0
+    Sell: 0
+  STRIPPED_BIRCH_LOG:
+    Buy: 0
+    Sell: 0
+  STRIPPED_BIRCH_WOOD:
+    Buy: 0
+    Sell: 0
+  STRIPPED_DARK_OAK_LOG:
+    Buy: 0
+    Sell: 0
+  STRIPPED_DARK_OAK_WOOD:
+    Buy: 0
+    Sell: 0
+  STRIPPED_JUNGLE_LOG:
+    Buy: 0
+    Sell: 0
+  STRIPPED_JUNGLE_WOOD:
+    Buy: 0
+    Sell: 0
+  STRIPPED_OAK_LOG:
+    Buy: 0
+    Sell: 0
+  STRIPPED_OAK_WOOD:
+    Buy: 0
+    Sell: 0
+  STRIPPED_SPRUCE_LOG:
+    Buy: 0
+    Sell: 0
+  STRIPPED_SPRUCE_WOOD:
+    Buy: 0
+    Sell: 0
+  STRUCTURE_BLOCK:
+    Buy: 0
+    Sell: 0
+  STRUCTURE_VOID:
+    Buy: 0
+    Sell: 0
+  SUGAR:
+    Buy: 0
+    Sell: 0
+  SUGAR_CANE:
+    Buy: 6400
+    Sell: 96
+  SUNFLOWER:
+    Buy: 500
+    Sell: 4
+  SUSPICIOUS_STEW:
+    Buy: 0
+    Sell: 0
+  SWEET_BERRIES:
+    Buy: 0
+    Sell: 0
+  SWEET_BERRY_BUSH:
+    Buy: 0
+    Sell: 0
+  TALL_GRASS:
+    Buy: 250
+    Sell: 2
+  TALL_SEAGRASS:
+    Buy: 0
+    Sell: 0
+  TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  TIPPED_ARROW:
+    Buy: 0
+    Sell: 0
+  TNT:
+    Buy: 0
+    Sell: 0
+  TNT_MINECART:
+    Buy: 0
+    Sell: 0
+  TORCH:
+    Buy: 0
+    Sell: 0
+  TOTEM_OF_UNDYING:
+    Buy: 0
+    Sell: 0
+  TRADER_LLAMA_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  TRAPPED_CHEST:
+    Buy: 0
+    Sell: 0
+  TRIDENT:
+    Buy: 0
+    Sell: 0
+  TRIPWIRE:
+    Buy: 0
+    Sell: 0
+  TRIPWIRE_HOOK:
+    Buy: 0
+    Sell: 0
+  TROPICAL_FISH:
+    Buy: 0
+    Sell: 0
+  TROPICAL_FISH_BUCKET:
+    Buy: 0
+    Sell: 0
+  TROPICAL_FISH_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  TUBE_CORAL:
+    Buy: 0
+    Sell: 0
+  TUBE_CORAL_BLOCK:
+    Buy: 0
+    Sell: 0
+  TUBE_CORAL_FAN:
+    Buy: 0
+    Sell: 0
+  TUBE_CORAL_WALL_FAN:
+    Buy: 0
+    Sell: 0
+  TURTLE_EGG:
+    Buy: 0
+    Sell: 0
+  TURTLE_HELMET:
+    Buy: 0
+    Sell: 0
+  TURTLE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  VEX_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  VILLAGER_SPAWN_EGG:
+    Buy: 75000
+    Sell: 0
+  VINDICATOR_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  VINE:
+    Buy: 0
+    Sell: 0
+  VOID_AIR:
+    Buy: 0
+    Sell: 0
+  WALL_TORCH:
+    Buy: 0
+    Sell: 0
+  WANDERING_TRADER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  WATER:
+    Buy: 0
+    Sell: 0
+  WATER_BUCKET:
+    Buy: 1000
+    Sell: 0
+  WET_SPONGE:
+    Buy: 0
+    Sell: 0
+  WHEAT:
+    Buy: 6400
+    Sell: 256
+  WHEAT_SEEDS:
+    Buy: 1000
+    Sell: 32
+  WHITE_BANNER:
+    Buy: 0
+    Sell: 0
+  WHITE_BED:
+    Buy: 0
+    Sell: 0
+  WHITE_CARPET:
+    Buy: 0
+    Sell: 0
+  WHITE_CONCRETE:
+    Buy: 0
+    Sell: 0
+  WHITE_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  WHITE_DYE:
+    Buy: 0
+    Sell: 0
+  WHITE_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  WHITE_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  WHITE_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  WHITE_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  WHITE_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  WHITE_TULIP:
+    Buy: 250
+    Sell: 2
+  WHITE_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  WHITE_WOOL:
+    Buy: 0
+    Sell: 0
+  WITCH_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  WITHER_ROSE:
+    Buy: 0
+    Sell: 0
+  WITHER_SKELETON_SKULL:
+    Buy: 0
+    Sell: 0
+  WITHER_SKELETON_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  WITHER_SKELETON_WALL_SKULL:
+    Buy: 0
+    Sell: 0
+  WOLF_SPAWN_EGG:
+    Buy: 10000
+    Sell: 0
+  WOODEN_AXE:
+    Buy: 0
+    Sell: 0
+  WOODEN_HOE:
+    Buy: 0
+    Sell: 0
+  WOODEN_PICKAXE:
+    Buy: 0
+    Sell: 0
+  WOODEN_SHOVEL:
+    Buy: 0
+    Sell: 0
+  WOODEN_SWORD:
+    Buy: 0
+    Sell: 0
+  WRITABLE_BOOK:
+    Buy: 0
+    Sell: 0
+  WRITTEN_BOOK:
+    Buy: 0
+    Sell: 0
+  YELLOW_BANNER:
+    Buy: 0
+    Sell: 0
+  YELLOW_BED:
+    Buy: 0
+    Sell: 0
+  YELLOW_CARPET:
+    Buy: 0
+    Sell: 0
+  YELLOW_CONCRETE:
+    Buy: 0
+    Sell: 0
+  YELLOW_CONCRETE_POWDER:
+    Buy: 0
+    Sell: 0
+  YELLOW_DYE:
+    Buy: 0
+    Sell: 0
+  YELLOW_GLAZED_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  YELLOW_SHULKER_BOX:
+    Buy: 0
+    Sell: 0
+  YELLOW_STAINED_GLASS:
+    Buy: 0
+    Sell: 0
+  YELLOW_STAINED_GLASS_PANE:
+    Buy: 0
+    Sell: 0
+  YELLOW_TERRACOTTA:
+    Buy: 0
+    Sell: 0
+  YELLOW_WALL_BANNER:
+    Buy: 0
+    Sell: 0
+  YELLOW_WOOL:
+    Buy: 0
+    Sell: 0
+  ZOMBIE_HEAD:
+    Buy: 0
+    Sell: 0
+  ZOMBIE_HORSE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ZOMBIE_PIGMAN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ZOMBIE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ZOMBIE_VILLAGER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ZOMBIE_WALL_HEAD:
+    Buy: 0
+    Sell: 0
+  ANCIENT_DEBRIS:
+    Buy: 0
+    Sell: 0
+  BASALT:
+    Buy: 0
+    Sell: 0
+  BEEHIVE:
+    Buy: 0
+    Sell: 0
+  BEE_NEST:
+    Buy: 0
+    Sell: 0
+  BEE_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  BLACKSTONE:
+    Buy: 0
+    Sell: 0
+  BLACKSTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  BLACKSTONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  BLACKSTONE_WALL:
+    Buy: 0
+    Sell: 0
+  CHAIN:
+    Buy: 0
+    Sell: 0
+  CHISELED_NETHER_BRICKS:
+    Buy: 0
+    Sell: 0
+  CHISELED_POLISHED_BLACKSTONE:
+    Buy: 0
+    Sell: 0
+  CRACKED_NETHER_BRICKS:
+    Buy: 0
+    Sell: 0
+  CRACKED_POLISHED_BLACKSTONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  CRIMSON_BUTTON:
+    Buy: 0
+    Sell: 0
+  CRIMSON_DOOR:
+    Buy: 0
+    Sell: 0
+  CRIMSON_FENCE:
+    Buy: 0
+    Sell: 0
+  CRIMSON_FENCE_GATE:
+    Buy: 0
+    Sell: 0
+  CRIMSON_FUNGUS:
+    Buy: 0
+    Sell: 0
+  CRIMSON_HYPHAE:
+    Buy: 0
+    Sell: 0
+  CRIMSON_NYLIUM:
+    Buy: 0
+    Sell: 0
+  CRIMSON_PLANKS:
+    Buy: 0
+    Sell: 0
+  CRIMSON_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  CRIMSON_ROOTS:
+    Buy: 0
+    Sell: 0
+  CRIMSON_SIGN:
+    Buy: 0
+    Sell: 0
+  CRIMSON_SLAB:
+    Buy: 0
+    Sell: 0
+  CRIMSON_STAIRS:
+    Buy: 0
+    Sell: 0
+  CRIMSON_STEM:
+    Buy: 0
+    Sell: 0
+  CRIMSON_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  CRIMSON_WALL_SIGN:
+    Buy: 0
+    Sell: 0
+  CRYING_OBSIDIAN:
+    Buy: 0
+    Sell: 0
+  GILDED_BLACKSTONE:
+    Buy: 0
+    Sell: 0
+  HOGLIN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  HONEYCOMB:
+    Buy: 0
+    Sell: 0
+  HONEYCOMB_BLOCK:
+    Buy: 0
+    Sell: 0
+  HONEY_BLOCK:
+    Buy: 0
+    Sell: 0
+  HONEY_BOTTLE:
+    Buy: 0
+    Sell: 0
+  LODESTONE:
+    Buy: 0
+    Sell: 0
+  MUSIC_DISC_PIGSTEP:
+    Buy: 0
+    Sell: 0
+  NETHERITE_AXE:
+    Buy: 0
+    Sell: 0
+  NETHERITE_BLOCK:
+    Buy: 0
+    Sell: 0
+  NETHERITE_BOOTS:
+    Buy: 0
+    Sell: 0
+  NETHERITE_CHESTPLATE:
+    Buy: 0
+    Sell: 0
+  NETHERITE_HELMET:
+    Buy: 0
+    Sell: 0
+  NETHERITE_HOE:
+    Buy: 0
+    Sell: 0
+  NETHERITE_INGOT:
+    Buy: 0
+    Sell: 0
+  NETHERITE_LEGGINGS:
+    Buy: 0
+    Sell: 0
+  NETHERITE_PICKAXE:
+    Buy: 0
+    Sell: 0
+  NETHERITE_SCRAP:
+    Buy: 0
+    Sell: 0
+  NETHERITE_SHOVEL:
+    Buy: 0
+    Sell: 0
+  NETHERITE_SWORD:
+    Buy: 0
+    Sell: 0
+  NETHER_GOLD_ORE:
+    Buy: 0
+    Sell: 0
+  NETHER_SPROUTS:
+    Buy: 0
+    Sell: 0
+  PIGLIN_BANNER_PATTERN:
+    Buy: 0
+    Sell: 0
+  PIGLIN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  POLISHED_BASALT:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_BRICKS:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_BRICK_SLAB:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_BRICK_STAIRS:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_BRICK_WALL:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_BUTTON:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_SLAB:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_STAIRS:
+    Buy: 0
+    Sell: 0
+  POLISHED_BLACKSTONE_WALL:
+    Buy: 0
+    Sell: 0
+  POTTED_CRIMSON_FUNGUS:
+    Buy: 0
+    Sell: 0
+  POTTED_CRIMSON_ROOTS:
+    Buy: 0
+    Sell: 0
+  POTTED_WARPED_FUNGUS:
+    Buy: 0
+    Sell: 0
+  POTTED_WARPED_ROOTS:
+    Buy: 0
+    Sell: 0
+  QUARTZ_BRICKS:
+    Buy: 0
+    Sell: 0
+  RESPAWN_ANCHOR:
+    Buy: 0
+    Sell: 0
+  SHROOMLIGHT:
+    Buy: 0
+    Sell: 0
+  SOUL_CAMPFIRE:
+    Buy: 0
+    Sell: 0
+  SOUL_FIRE:
+    Buy: 0
+    Sell: 0
+  SOUL_LANTERN:
+    Buy: 0
+    Sell: 0
+  SOUL_SOIL:
+    Buy: 0
+    Sell: 0
+  SOUL_TORCH:
+    Buy: 0
+    Sell: 0
+  SOUL_WALL_TORCH:
+    Buy: 0
+    Sell: 0
+  STRIDER_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  STRIPPED_CRIMSON_HYPHAE:
+    Buy: 0
+    Sell: 0
+  STRIPPED_CRIMSON_STEM:
+    Buy: 0
+    Sell: 0
+  STRIPPED_WARPED_HYPHAE:
+    Buy: 0
+    Sell: 0
+  STRIPPED_WARPED_STEM:
+    Buy: 0
+    Sell: 0
+  TARGET:
+    Buy: 0
+    Sell: 0
+  TWISTING_VINES:
+    Buy: 0
+    Sell: 0
+  TWISTING_VINES_PLANT:
+    Buy: 0
+    Sell: 0
+  WARPED_BUTTON:
+    Buy: 0
+    Sell: 0
+  WARPED_DOOR:
+    Buy: 0
+    Sell: 0
+  WARPED_FENCE:
+    Buy: 0
+    Sell: 0
+  WARPED_FENCE_GATE:
+    Buy: 0
+    Sell: 0
+  WARPED_FUNGUS:
+    Buy: 0
+    Sell: 0
+  WARPED_FUNGUS_ON_A_STICK:
+    Buy: 0
+    Sell: 0
+  WARPED_HYPHAE:
+    Buy: 0
+    Sell: 0
+  WARPED_NYLIUM:
+    Buy: 0
+    Sell: 0
+  WARPED_PLANKS:
+    Buy: 0
+    Sell: 0
+  WARPED_PRESSURE_PLATE:
+    Buy: 0
+    Sell: 0
+  WARPED_ROOTS:
+    Buy: 0
+    Sell: 0
+  WARPED_SIGN:
+    Buy: 0
+    Sell: 0
+  WARPED_SLAB:
+    Buy: 0
+    Sell: 0
+  WARPED_STAIRS:
+    Buy: 0
+    Sell: 0
+  WARPED_STEM:
+    Buy: 0
+    Sell: 0
+  WARPED_TRAPDOOR:
+    Buy: 0
+    Sell: 0
+  WARPED_WALL_SIGN:
+    Buy: 0
+    Sell: 0
+  WARPED_WART_BLOCK:
+    Buy: 0
+    Sell: 0
+  WEEPING_VINES:
+    Buy: 0
+    Sell: 0
+  WEEPING_VINES_PLANT:
+    Buy: 0
+    Sell: 0
+  ZOGLIN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
+  ZOMBIFIED_PIGLIN_SPAWN_EGG:
+    Buy: 0
+    Sell: 0
