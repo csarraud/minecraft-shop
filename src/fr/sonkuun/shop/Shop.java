@@ -292,9 +292,14 @@ public class Shop {
 			inventory.setItem(i, glass);
 		}
 		
-		// TODO
-
-		
+		inventory.setItem(11, createShopItem(Material.HOPPER, 1));
+		inventory.setItem(12, createShopItem(Material.REDSTONE, 8));
+		inventory.setItem(13, createShopItem(Material.DISPENSER, 1));
+		inventory.setItem(14, createShopItem(Material.DROPPER, 1));
+		inventory.setItem(15, createShopItem(Material.COMPARATOR, 1));
+		inventory.setItem(21, createShopItem(Material.REPEATER, 1));
+		inventory.setItem(22, createShopItem(Material.OBSERVER, 1));
+		inventory.setItem(23, createShopItem(Material.PISTON, 1));
 
 		inventory.setItem(44, createGoBackItem());
 
